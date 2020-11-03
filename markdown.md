@@ -1,10 +1,10 @@
 # markdown
 A markdown exercise to test GitHub for the first time
 
-###IRELANDS RUGGED COAST YEILDS
+### IRELANDS RUGGED COAST YEILDS
 
 Priceless Relics of the Spanish Armada
-######################################
+======================================
 
 **by ROBERT STENUIT**
 
