@@ -1,2 +1,2 @@
-# Markdown-v1
+# Markdown
 A markdown exercise to test GitHub for the first time
